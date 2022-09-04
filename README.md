@@ -1,3 +1,7 @@
 # odin-project
 The Odin Project Files
-Hello Odin!+
+<<<<<<< HEAD
+Hello Odin!
+=======
+Hello Odin!
+>>>>>>> refs/remotes/origin/main
